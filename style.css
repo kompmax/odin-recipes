@@ -1,0 +1,44 @@
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    background-color: aquamarine;
+    font-size: 30;
+    font-weight: 800;
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    border-radius: 10px;
+}
+
+ul li {
+    color: grey
+}
+
+ol li {
+    color: brown
+}
+
+h3 {
+    font-size: 12;
+    font-weight: 500;
+    color: black;
+    text-align: left;
+}
+
+h4 {
+    background-color: aquamarine;
+    font-size: 8;
+    font-weight: 500;
+    color: darkgoldenrod;
+    text-align: center;
+}
+
+a {
+    font-size: 20px;
+}
